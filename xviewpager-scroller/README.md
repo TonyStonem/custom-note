@@ -1,0 +1,2 @@
+# xviewpager-scroller
+自定义ViewGroup结合Scroller实现简单的ViewPager
