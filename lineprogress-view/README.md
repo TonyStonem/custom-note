@@ -1,0 +1,2 @@
+# lineprogress-view
+自定义View实现带进度的线形进度条并提供了两种不同的风格
